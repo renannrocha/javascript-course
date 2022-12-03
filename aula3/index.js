@@ -1,1 +1,7 @@
-console.log('Ola Mundo !!');
+/*
+comentarios grandes 
+*/
+
+// comentarios simples 
+
+console.log('Ola Mundo !!'); 
