@@ -165,3 +165,13 @@ if (aprovacaoAluno == true){
     a ela .
 
 */
+
+
+//##########################################################################################################################################
+
+
+// sinais de atribuição no JavaScript 
+
+// sinal de atribuição normal ( = ) 
+
+// sinal de atribuição mais aumento ou decremento de valor ( += ) 
