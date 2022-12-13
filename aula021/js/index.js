@@ -55,3 +55,10 @@ calculo = Number(num1) + Number(num2);
 
 alert(`a soma entre os valores ${num1} e ${num2} é igual a ${calculo}`);
 */
+
+// -------------------------------------------------------------------------------------------
+
+// comando para escrevar algo na tela do html
+
+
+window.document.body.innerHTML += `Ola meu nome ${nome} `;
