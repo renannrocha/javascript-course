@@ -175,4 +175,10 @@ forma dos outros estilos de função
 veja a sintaxe :*/
 
 const media = (x, y, z) => x + y + z / 3; 
+
+const subNum1 = (x = 1, y = 1) => {
+    const calculo = x - y;
+    return calculo;
+}
+console.log(subNum1(2, 9)); // -7
 // no caso de apenas um valor no parametro retirasse os parenteses
