@@ -57,7 +57,7 @@ console.log(Number.isNaN(temp));
 // imprecisão
 
 /*
-as contas em JavaScript seguem um padrão IEEE 754-2008, ou seja esse é o pradrão que o 
+as contas em JavaScript seguem um padrão IEEE 754-2008, ou seja esse é o padrão que o 
 JavaScript segue para fazer os calculos dentro do seu motor paa ter a precisão com numeros
 com casas decimais
 */
@@ -97,6 +97,6 @@ resolvendo esse problema de imprecisão com calculos
 */
 
 
-// num4 = ((num4 * 100) + (num5 * 100)) / 100; // 0.8
-// num4 = ((num4 * 100) + (num5 * 100)) / 100; // 0.9
-// num4 = ((num4 * 100) + (num5 * 100)) / 100; // 1.0
+// num4 = ((num4 * 100) + (num5 * 100)) / 100;    =>  0.8
+// num4 = ((num4 * 100) + (num5 * 100)) / 100;    =>  0.9
+// num4 = ((num4 * 100) + (num5 * 100)) / 100;    =>  1.0
