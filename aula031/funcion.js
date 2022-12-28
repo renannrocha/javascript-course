@@ -182,3 +182,28 @@ const subNum1 = (x = 1, y = 1) => {
 }
 console.log(subNum1(2, 9)); // -7
 // no caso de apenas um valor no parametro retirasse os parenteses
+
+
+//##################################################################################################
+
+
+// w3.org - funções JavaScript
+
+/* Uma função JavaScript é um bloco de codigo projetado para executar
+uma tarefa especifica
+
+Uma função JavaScript é executada quando "algo" a invoca (a chama);
+
+exemplo*/
+
+// função para computar o produto de p1 e p2
+function minhaFuncao(p1, p2) {
+    return p1 * p2;
+}
+
+//-------------------------------------------------------------------------------------------------
+
+/* Sintaxe da função JavaScript
+
+Uma função JavaScript*/
+
