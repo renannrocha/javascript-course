@@ -5,13 +5,12 @@
 <p>se eu estou utlizando a expressão and , a partir do momento que o javascript encontrou a minha expressão ande teve uma expressão que avalia em falso ele vai retornar o valor falso , é se ele não encontra nada , ele vai checar todas as expresões e vai me retornar a ultima</p>
 <hr>
 <h2>valores que retornan em falsy</h2>
+<p>-> false</p>
+<p>-> 0</p>
+<p>-> ' '  " "  ` `</p>
+<p>-> null / undefined</p>
+<p>-> NaN</p>
 <p>
--> false
--> 0
--> ' '  " "  ` `
--> null / undefined
--> NaN
-
 qualquer coisa diferente a esses valores são considerados true.
 </p>
 
