@@ -1,0 +1,4 @@
+function meuEscopo(){
+
+}
+meuEscopo()
