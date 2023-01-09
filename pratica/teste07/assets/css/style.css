@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{ 
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: rgb(75, 2, 104);
+}
+
+.conteudo{
+    background: #fff;
+    height: 54em;
+    width: 800px;
+    margin: auto;
+    background-image: url(/pratica/teste07/assets/imagem/user.png);
+    background-repeat: no-repeat;
+    background-size: 70px ;
+    background-position: top;
+    border-radius: 20px;
+}
+
+.header-content{
+    text-align: left;
+    padding-bottom: 5px;
+    letter-spacing: 2px;
+    padding-top: 50px;
+}
+
+
+.header-content h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-shadow: 2px 2px 1px #ccc;
+}
+
+.header-content p {
+    padding-left: 140px;
+}
+
+.form-content{
+    background-color: rgb(238, 238, 238);
+    border-radius: 20px;
+    height: 450px;
+    width: 770px;
+    margin: auto;
+    font-size: 30px;
+}
+.form{
+    margin-left: 120px;
+}
+
+.nome, .sobrenome, .idade, .senha{
+    padding: 10px 100px;
+    border-radius: 15px;
+    font-size: 30px;
+}
+
+button{
+    font-size: 30px;
+    padding: 5px 250px;
+    border-radius: 15px;
+}
+button:hover{
+    background: #ccc;
+}
